@@ -113,5 +113,3 @@ if st.button('Calculate'):
         'Feed Stage': NF
     }
     st.table(results)
-
-    
